@@ -4,9 +4,7 @@
 
 ### Overview
 
-In this assignment, you will build a web design skeleton using HTML/CSS. Your completed work should look just like the image below:
-
-![Final Layout](Images/Easier-Layout.png)
+Build a web design skeleton using HTML/CSS.
 
 ### Instructions
 
@@ -61,6 +59,6 @@ In this assignment, you will build a web design skeleton using HTML/CSS. Your co
 
 ### Reminder: Submission on BCS
 
-* "Click here for link" https://ml042685.github.io/HW-Wireframe/!
+* "Click here for link" https://ml042685.github.io/HW-Wireframe/
 
 - - -
