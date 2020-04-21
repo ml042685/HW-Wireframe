@@ -56,6 +56,10 @@ Build a web design skeleton using HTML/CSS.
 
 * Helpful coding concepts: `float`, `padding`, `margin`, `display`, `overflow`, `clear` and `text-align`.
 
+### Technologies
+* HTML5
+* CSS3
+
 
 ### Reminder: Submission on BCS
 
